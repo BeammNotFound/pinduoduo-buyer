@@ -16,7 +16,7 @@
 由于我是系统全局配置，所以这行代码没有在代码块中出现，需要的小伙伴自行添加代码配置
 
 ### 第三步：修改代码
-打开 /src/main/java/TaoBaoBuyer.java <br>
+打开 /src/main/java/Pinduoduo.java <br>
 修改 **ShoppingTime** 为自己的购买时间 <br>
 修改 **PhoneNumber** 为自己的手机号码  <br>
 ### 最后一步：运行代码
